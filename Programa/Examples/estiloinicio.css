@@ -1,0 +1,17 @@
+/*este es un comentario en CSS */
+#contenedor
+{
+	background-color:lime;
+	heigth:150px;
+	width:150px;
+	padding:10px;
+	border:solid 4px black;
+	margin:30px;
+	
+}
+
+#inner
+{
+	backgroung-color:aqua;
+	height:100%;
+}

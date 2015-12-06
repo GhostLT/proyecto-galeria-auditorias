@@ -1,0 +1,3 @@
+$arch = fopen('archivo');
+fwrite($arch, file_get_contents('otro archivo'));
+fclose($arch);
